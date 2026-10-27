@@ -1,7 +1,7 @@
 # Maintainer: Fredi Machado <fredisoft@gmail.com>
 pkgname=omairc
-pkgver=1.10.3
-pkgrel=4
+pkgver=1.11.0rc1
+pkgrel=1
 pkgdesc='Dead-simple IRC client for Omarchy'
 arch=('x86_64')
 url='https://github.com/fredimachado/omairc'
@@ -23,7 +23,7 @@ source=(
   'qt6.12-leave-click.patch'
 )
 sha256sums=(
-  '7bed0b68c3736a31a05254b2634844b37e989f625eceb239eff38e3073a82dd1'
+  '47ac781f4e49af7005a1896f9eaa08c09af392e3ed4e47832343deaf292d057b'
   '0676d0a0dfcdfe7bd571d1cb9f86215e02b8fbeafd76b7de11fbb211107c679e'
   '11029c85d6369c52fef00f98f77fd9eefae9b4586c85da96bc54818fd959bd11'
 )
